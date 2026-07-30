@@ -54,6 +54,9 @@
 </div>
 
 <p align="center">
-<img align="center" img src="https://github.com/sykoyo/sykoyo/blob/main/shadow.png?raw=true" width=300/>
+<img align="center" img src="https://github.com/sykoyo/sykoyo/blob/main/shadow.png?raw=true" width=400/>
+</p>
+<p align="center">
+<img align="center" img src="https://github.com/sykoyo/sykoyo/blob/main/pleasebetransparent.png?raw=true" width=300/>
 </p>
 
