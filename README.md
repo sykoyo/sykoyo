@@ -15,7 +15,7 @@ $\color{#8C4B70}{\textsf{— — — — — — — — — ° · Ɛs ☆ ໒�
 
 <!-- bullshit-->
 <p align="center">
-$\color{#F6AEE0}{\textsf{⛩️. }}$ 
+$\color{#F6AEE0}{\textsf{🍰. }}$ 
 $\color{#FCE1F0}{\textsf{hii!}}$ 
 $\color{#F6AEE0}{\textsf{im ruby}}$ 
 $\color{#ED9AD0}{\textsf{but i also go by}}$ 
