@@ -42,7 +42,7 @@ $\color{#8C4B70}{\textsf{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌�
     $\color{#ED9AD0}{\textsf{. )є˚}}$
     <a href="https://justikkoyo.straw.page"><b><u>STRAWPAGE</u></b></a> 
    $\color{#C672A0}{\textsf{ 3ა}}$
-    ![](https://komarev.com/ghpvc/?username=DOKIES&color=ffb3d9&style=flat-square&label=profile+views)
+
   </p>
 
   <p align="center">
