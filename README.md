@@ -54,7 +54,10 @@ $\color{#8C4B70}{\textsf{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌�
     <a href="https://github.com/opaaaa/@pt-contributers"><b><u>and pt-contributers</u></b></a> 
    $\color{#C672A0}{\textsf{ 3ა}}$
   </p>
-
+<div align="center">
+  <a href="https://github.com/sykoyo/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sykoyo&color=fbbee6&style=plastic&label=Dokies" /> <!-- profile counter -->
+  </a>
 
 
 <p align="center">
