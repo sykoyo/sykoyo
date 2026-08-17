@@ -48,9 +48,9 @@ $\color{#8C4B70}{\textsf{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌�
     $\color{#FCE1F0}{\textsf{८Ɛ}}$
     <a href="https://github.com/opaaaa/ty-pt-walk-of-fame"><b><u>ty pt-walk-of-fame</u></b></a>
      $\color{#F6AEE0}{\textsf{. )є˚}}$
-    <a href="https://github.com/opaaaa/pt-fashion"><b><u>pt-fashion</u></b></a> 
+    <a href="https://github.com/opaaaa/pt-friendships,"><b><u>pt-friendships</u></b></a> 
     $\color{#ED9AD0}{\textsf{. )є˚}}$
-    <a href="https://github.com/opaaaa/and-pt-nominations"><b><u>and pt-nominations</u></b></a> 
+    <a href="https://github.com/opaaaa/@pt-contributers"><b><u>and pt-contributers</u></b></a> 
    $\color{#C672A0}{\textsf{ 3ა}}$
   </p>
 
