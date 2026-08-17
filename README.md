@@ -36,7 +36,7 @@ $\color{#8C4B70}{\textsf{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌�
   <!-- External Profile Links -->
   <p align="center">
     $\color{#FCE1F0}{\textsf{८Ɛ}}$
-    <a href=https://guns.lol/sykoko><b><u>RENTRY</u></b></a> 
+    <a href=https://guns.lol/sykoko><b><u>GUNSLOL</u></b></a> 
      $\color{#F6AEE0}{\textsf{. )є˚}}$
     <a href="https://ikkoyono.atabook.org"><b><u>ATABOOK</u></b></a> 
     $\color{#ED9AD0}{\textsf{. )є˚}}$
